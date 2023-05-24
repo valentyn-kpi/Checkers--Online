@@ -1,0 +1,21 @@
+# ninja log v5
+1	87	7065903449645389	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	e126e86859b735d4
+1	87	7065903449645389	C:/Users/valen/CLionProjects/CPROG/new/Checkers--Online/cmake-build-release/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	e126e86859b735d4
+88	13146	7065903580253741	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	34a0f25cac8fb9fd
+88	13146	7065903580253741	C:/Users/valen/CLionProjects/CPROG/new/Checkers--Online/cmake-build-release/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	34a0f25cac8fb9fd
+13146	14825	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	724666a2c972fe0
+13146	14825	0	C:/Users/valen/CLionProjects/CPROG/new/Checkers--Online/cmake-build-release/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	724666a2c972fe0
+14825	14876	7065903597547337	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	d584d9ebe9c76436
+14825	14876	7065903597547337	C:/Users/valen/CLionProjects/CPROG/new/Checkers--Online/cmake-build-release/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	d584d9ebe9c76436
+14876	14932	7065903598116298	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	1a4671a359ddb858
+14876	14932	7065903598116298	C:/Users/valen/CLionProjects/CPROG/new/Checkers--Online/cmake-build-release/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	1a4671a359ddb858
+14932	14991	7065903598699059	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	3dd77508272ad99b
+14932	14991	7065903598699059	C:/Users/valen/CLionProjects/CPROG/new/Checkers--Online/cmake-build-release/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	3dd77508272ad99b
+14991	15044	7065903599235683	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	79e595160b35dfb4
+14991	15044	7065903599235683	C:/Users/valen/CLionProjects/CPROG/new/Checkers--Online/cmake-build-release/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	79e595160b35dfb4
+15044	15098	7065903599766153	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	7f8044afd504e462
+15044	15098	7065903599766153	C:/Users/valen/CLionProjects/CPROG/new/Checkers--Online/cmake-build-release/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	7f8044afd504e462
+15098	15178	7065903600567602	CMakeFiles/sfml-populate-complete	1e907166cecf263a
+15098	15178	7065903600567602	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	1e907166cecf263a
+15098	15178	7065903600567602	C:/Users/valen/CLionProjects/CPROG/new/Checkers--Online/cmake-build-release/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	1e907166cecf263a
+15098	15178	7065903600567602	C:/Users/valen/CLionProjects/CPROG/new/Checkers--Online/cmake-build-release/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	1e907166cecf263a
